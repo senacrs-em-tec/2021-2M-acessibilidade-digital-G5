@@ -1,1 +1,5 @@
-# 2021-2M-acessibilidade-ditigal-G5
+# 2021-2M-acessibilidade-digital-G5
+
+- Luis
+- Bernardo
+- Inacio
